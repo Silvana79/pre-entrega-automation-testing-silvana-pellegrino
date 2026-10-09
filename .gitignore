@@ -1,0 +1,8 @@
+**pycache**/
+.pytest_cache/
+venv/
+reports/execution.log
+reports/screenshots/
+reports/reporte.html
+*.pyc
+
