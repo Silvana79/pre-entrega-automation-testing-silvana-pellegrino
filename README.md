@@ -125,4 +125,4 @@ El reporte HTML permite consultar los resultados de las pruebas. El archivo de r
 
 **GitHub:** URL_DEL_REPOSITORIO
 
-Completar este apartado con el enlace al repositorio una vez publicado.
+https://github.com/Silvana79/pre-entrega-automation-testing-silvana-pellegrino
